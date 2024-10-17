@@ -1,13 +1,13 @@
-<h1 align="center">🍄 Welcome To My Github 🍄</h1>
+<h1 align="center"><img height="50" src="https://media.tenor.com/rdDl7LftU8QAAAAj/monokuma-danganronpa.gif" /> Welcome To My Github <img height="50" src="https://media.tenor.com/rdDl7LftU8QAAAAj/monokuma-danganronpa.gif" /> </h1>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Flavors&size=18&duration=1000&pause=1000&color=FF5E8A&background=00000000&center=true&vCenter=true&width=435&height=30&separator=%3C&lines=Commit+your+way+to+the+Lord;%3CTrust+in+Him+and+He+will+do+this.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Flavors&size=18&duration=1000&pause=1000&color=D79764&background=00000000&center=true&vCenter=true&width=435&height=30&separator=%3C&lines=Commit+your+way+to+the+Lord;%3CTrust+in+Him+and+He+will+do+this.)](https://git.io/typing-svg)
 
 <div align="left">
 
 ## 🌻 About Me    
-<p> I am a begginer programmer from Malaysia, and I occasionally spend my free time learning programming. I also hope to discover enjoyment in it. It's quite fun, isn't it? Besides computer languages, I'm also learning Japanese and English.      
+<p> I am a begginer programmer from Malaysia, and I occasionally spend my free time learning programming. I also hope to discover enjoyment in it. It's quite fun, isn't it? Besides computer languages, I'm also learning Japanese and English. <br>
 By the way, I wish you a nice day! 🥂</p>   
 Click 🎐 <a href="https://cwteng1005.github.io/WT_Blog/"><b>My Life Blog</b></a> to know more...
      
@@ -21,7 +21,7 @@ Click 🎐 <a href="https://cwteng1005.github.io/WT_Blog/"><b>My Life Blog</b></
 
 <div align="center">
      
-<a href="https://git.io/streak-stats#gh-light-mode-only"><img height="180" src="https://streak-stats.demolab.com?user=CWTeng1005&theme=moltack&hide_border=true&card_width=890" alt="GitHub Streak"/></a>
+<a href="https://git.io/streak-stats#gh-light-mode-only"><img height="180" src="https://streak-stats.demolab.com?user=CWTeng1005&theme=moltack&hide_border=true&card_width=890&stroke=7A1021" alt="GitHub Streak"/></a>
 <a href="https://git.io/streak-stats#gh-dark-mode-only"><img height="180" src="https://streak-stats.demolab.com?user=CWTeng1005&theme=apprentice&hide_border=true&card_width=890&background=915151" alt="GitHub Streak" /></a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only"><img height="180" src="https://github-readme-stats.vercel.app/api?username=CWTeng1005&show_icons=true&theme=moltack" /></a>
@@ -30,12 +30,6 @@ Click 🎐 <a href="https://cwteng1005.github.io/WT_Blog/"><b>My Life Blog</b></
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only"><img height="180" src="https://github-readme-stats.vercel.app/api?username=CWTeng1005&show_icons=true&theme=rose" /></a>
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only"><img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CWTeng1005&theme=rose&layout=compact&card_width=300" /></a>
 
-<div align="left">
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/waiteng_298" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="waiteng_298" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </p>
+<img height="90" src="https://media.tenor.com/vafOLwS0j0sAAAAj/star-y%C4%B1ld%C4%B1z.gif" />
+<a href="https://github.com/ryo-ma/github-profile-trophy#gh-light-mode-only"><img height="90" src="https://github-profile-trophy.vercel.app/?username=CWTeng1005&row=1&column=7&no-bg=true&no-frame=true&theme=juicyfresh" /></a>
+<img height="90" src="https://media.tenor.com/vafOLwS0j0sAAAAj/star-y%C4%B1ld%C4%B1z.gif" />
