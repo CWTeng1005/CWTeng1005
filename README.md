@@ -7,16 +7,28 @@
 <div align="left">
 
 ## 🌻 About Me    
-<p> I am a begginer programmer from Malaysia, and I occasionally spend my free time learning programming. I also hope to discover enjoyment in it. It's quite fun, isn't it? Besides computer languages, I'm also learning Japanese and English. <br>
-By the way, I wish you a nice day! 🥂</p>   
-Click 🎐 <a href="https://cwteng1005.github.io/WT_Blog/"><b>My Life Blog</b></a> to know more...
-     
-## 🎓 Education  
-- **Secondary School**   
-  🏫 <a href="https://sites.google.com/view/smjknh">Sekolah Menengah Jenis Kebangsaan Nan Hwa, Malaysia</a>
+<p>I am a begginer programmer from Malaysia, and I occasionally spend my free time learning programming. I also hope to discover enjoyment in it. It's quite fun, isn't it? Besides computer languages, I'm also learning Japanese and English. <br>
+By the way, I wish you a nice day! 🥂 </p>   
+Click 🎐 <a href="https://cwteng1005.github.io/WT_Blog/" target="_blank"><b>My Life Blog</b></a> to know more...
 
-- **Bachelor's Degree in Engineering, Major in E-Commerce**   
-  🏫 <a href="https://en.nwpu.edu.cn/">Northwestern Polytechnical University, China</a>
+## 🎓 Education  
+- **Secondary School 【2013 - 2017】**   
+  🏫 <a href="https://sites.google.com/view/smjknh" target="_blank">Sekolah Menengah Jenis Kebangsaan Nan Hwa, Malaysia</a>
+
+- **Bachelor's Degree in Engineering, Major in E-Commerce 【Sep 2018 - Jun 2022】**   
+  🏫 <a href="https://en.nwpu.edu.cn/" target="_blank">Northwestern Polytechnical University, China</a>
+
+## ⏳ Work Experience
+| Position | Company | Duration |
+| :------: | :-----: | :------: |
+| Humanities Assistant | Sitiawan Settlement Museum | November 2022 ~ Present |
+  
+## 💬 Languages
+- [x] Chinese
+- [x] English
+- [x] Malay
+- [ ] Japanese
+      
 ---  
 
 <div align="center">
