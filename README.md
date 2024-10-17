@@ -1,9 +1,35 @@
-<h1 align="center">Hi 👋, I'm WaiTeng!!!</h1>
-<h3 align="center">A passionate BEGINNER from MALAYSIA</h3>
+<h1 align="center">🍄 Welcome To My Github 🍄</h1>
 
-- 🌱 I’m currently learning **HTML**
+<div align="center">
 
-- 📫 How to reach me **chingwaiteng@outlook.com**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Flavors&size=18&duration=1000&pause=1000&color=CA0000&background=FFFFFF&center=true&vCenter=true&width=435&height=30&separator=%3C&lines=Commit+your+way+to+the+Lord;%3CTrust+in+Him+and+He+will+do+this.)](https://git.io/typing-svg)
+
+<div align="left">
+
+## 🌻 About Me    
+<p> I am a begginer programmer from Malaysia, and I occasionally spend my free time learning programming. I also hope to discover enjoyment in it. It's quite fun, isn't it? Besides computer languages, I'm also learning Japanese and English.      
+By the way, I wish you a nice day! 🥂</p>   
+Click 🎐 <a href="https://cwteng1005.github.io/WT_Blog/"><b>My Life Blog</b></a> to know more...
+     
+## 🎓 Education  
+- **Secondary School**   
+  🏫 <a href="https://sites.google.com/view/smjknh">Sekolah Menengah Jenis Kebangsaan Nan Hwa, Malaysia</a>
+
+- **Bachelor's Degree in Engineering, Major in E-Commerce**   
+  🏫 <a href="https://en.nwpu.edu.cn/">Northwestern Polytechnical University, China</a>
+---  
+
+<div>
+
+<p align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only"><img height="200" src="https://github-readme-stats.vercel.app/api?username=CWTeng1005&show_icons=true&theme=moltack" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CWTeng1005&theme=moltack&layout=compact" /></a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only"><img height="200" src="https://github-readme-stats.vercel.app/api?username=CWTeng1005&show_icons=true&theme=rose" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CWTeng1005&theme=rose&layout=compact" /></a>
+</p>
+
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
