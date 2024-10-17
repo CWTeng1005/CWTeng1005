@@ -31,5 +31,5 @@ Click 🎐 <a href="https://cwteng1005.github.io/WT_Blog/"><b>My Life Blog</b></
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only"><img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CWTeng1005&theme=rose&layout=compact&card_width=300" /></a>
 
 <img height="90" src="https://media.tenor.com/vafOLwS0j0sAAAAj/star-y%C4%B1ld%C4%B1z.gif" />
-<a href="https://github.com/ryo-ma/github-profile-trophy#gh-light-mode-only"><img height="90" src="https://github-profile-trophy.vercel.app/?username=CWTeng1005&row=1&column=7&no-bg=true&no-frame=true&theme=juicyfresh" /></a>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img height="90" src="https://github-profile-trophy.vercel.app/?username=CWTeng1005&row=1&column=7&no-bg=true&no-frame=true&theme=juicyfresh" /></a>
 <img height="90" src="https://media.tenor.com/vafOLwS0j0sAAAAj/star-y%C4%B1ld%C4%B1z.gif" />
