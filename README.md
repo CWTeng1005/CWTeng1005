@@ -22,11 +22,11 @@ Click 🎐 <a href="https://cwteng1005.github.io/WT_Blog/"><b>My Life Blog</b></
 <div>
 
 <p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only"><img height="200" src="https://github-readme-stats.vercel.app/api?username=CWTeng1005&show_icons=true&theme=moltack" /></a>
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CWTeng1005&theme=moltack&layout=compact" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only"><img height="180" src="https://github-readme-stats.vercel.app/api?username=CWTeng1005&show_icons=true&theme=moltack" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only"><img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CWTeng1005&theme=moltack&layout=compact&card_width=300"/></a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only"><img height="200" src="https://github-readme-stats.vercel.app/api?username=CWTeng1005&show_icons=true&theme=rose" /></a>
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CWTeng1005&theme=rose&layout=compact" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only"><img height="180" src="https://github-readme-stats.vercel.app/api?username=CWTeng1005&show_icons=true&theme=rose" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only"><img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CWTeng1005&theme=rose&layout=compact&card_width=300" /></a>
 </p>
 
 </div>
