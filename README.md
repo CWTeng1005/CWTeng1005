@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Flavors&size=18&duration=1000&pause=1000&color=CA0000&background=FFFFFF&center=true&vCenter=true&width=435&height=30&separator=%3C&lines=Commit+your+way+to+the+Lord;%3CTrust+in+Him+and+He+will+do+this.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Flavors&size=18&duration=1000&pause=1000&color=FF5E8A&background=00000000&center=true&vCenter=true&width=435&height=30&separator=%3C&lines=Commit+your+way+to+the+Lord;%3CTrust+in+Him+and+He+will+do+this.)](https://git.io/typing-svg)
 
 <div align="left">
 
@@ -19,17 +19,18 @@ Click 🎐 <a href="https://cwteng1005.github.io/WT_Blog/"><b>My Life Blog</b></
   🏫 <a href="https://en.nwpu.edu.cn/">Northwestern Polytechnical University, China</a>
 ---  
 
-<div>
+<div align="center">
+     
+<a href="https://git.io/streak-stats#gh-light-mode-only"><img height="180" src="https://streak-stats.demolab.com?user=CWTeng1005&theme=moltack&hide_border=true&card_width=890" alt="GitHub Streak"/></a>
+<a href="https://git.io/streak-stats#gh-dark-mode-only"><img height="180" src="https://streak-stats.demolab.com?user=CWTeng1005&theme=apprentice&hide_border=true&card_width=890&background=915151" alt="GitHub Streak" /></a>
 
-<p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only"><img height="180" src="https://github-readme-stats.vercel.app/api?username=CWTeng1005&show_icons=true&theme=moltack" /></a>
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only"><img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CWTeng1005&theme=moltack&layout=compact&card_width=300"/></a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only"><img height="180" src="https://github-readme-stats.vercel.app/api?username=CWTeng1005&show_icons=true&theme=rose" /></a>
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only"><img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CWTeng1005&theme=rose&layout=compact&card_width=300" /></a>
-</p>
 
-</div>
+<div align="left">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
