@@ -33,11 +33,11 @@ Click 🎐 <a href="https://cwteng1005.github.io/WT_Blog/" target="_blank"><b>My
 
 <div align="center">
      
-<a href="https://git.io/streak-stats#gh-light-mode-only"><img height="180" src="https://streak-stats.demolab.com?user=CWTeng1005&theme=moltack&hide_border=true&card_width=890&stroke=7A1021" alt="GitHub Streak"/></a>
-<a href="https://git.io/streak-stats#gh-dark-mode-only"><img height="180" src="https://streak-stats.demolab.com?user=CWTeng1005&theme=apprentice&hide_border=true&card_width=890&background=915151" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats#gh-light-mode-only"><img height="180" src="https://streak-stats.demolab.com?user=CWTeng1005&theme=date_night&hide_border=true&card_width=890&stroke=7A1021" alt="GitHub Streak"/></a>
+<a href="https://git.io/streak-stats#gh-dark-mode-only"><img height="180" src="https://streak-stats.demolab.com?user=CWTeng1005&theme=date_night&hide_border=true&card_width=890&background=915151" alt="GitHub Streak" /></a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only"><img height="180" src="https://github-readme-stats.vercel.app/api?username=CWTeng1005&show_icons=true&theme=moltack" /></a>
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only"><img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CWTeng1005&theme=moltack&layout=compact&card_width=300"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only"><img height="180" src="https://github-readme-stats.vercel.app/api?username=CWTeng1005&show_icons=true&theme=rose" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only"><img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CWTeng1005&theme=rose&layout=compact&card_width=300"/></a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only"><img height="180" src="https://github-readme-stats.vercel.app/api?username=CWTeng1005&show_icons=true&theme=rose" /></a>
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only"><img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CWTeng1005&theme=rose&layout=compact&card_width=300" /></a>
